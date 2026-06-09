@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1400 950">
+  <!-- Generator: Adobe Illustrator 30.5.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 3)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #f4f4f1;
+      }
+
+      .st2 {
+        opacity: .18;
+      }
+
+      .st3 {
+        fill: #b9f2ff;
+      }
+
+      .st1 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 56px;
+        font-weight: 700;
+      }
+
+      .st1, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st6 {
+        fill: #090b10;
+      }
+
+      .st4 {
+        fill: #9b9faa;
+        font-family: ArialMT, Arial;
+        font-size: 26px;
+      }
+
+      .st7 {
+        fill: url(#Degradado_sin_nombre);
+      }
+
+      .st5 {
+        opacity: .7;
+        stroke: url(#Degradado_sin_nombre_2);
+        stroke-width: 5px;
+      }
+
+      .st5, .st8 {
+        fill: none;
+      }
+
+      .st9, .st8 {
+        stroke: #fff;
+      }
+
+      .st8 {
+        stroke-opacity: .17;
+        stroke-width: 2px;
+      }
+    </style>
+    <radialGradient id="Degradado_sin_nombre" data-name="Degradado sin nombre" cx="-258.12" cy="1015.73" fx="-258.12" fy="1015.73" r=".6" gradientTransform="translate(362341 965136) scale(1400 -950)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b9f2ff" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#07080b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="Degradado_sin_nombre_2" data-name="Degradado sin nombre 2" x1="-258.9" y1="1015.7" x2="-257.9" y2="1014.7" gradientTransform="translate(264111 462451) scale(1020 -455)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4f4f1" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#b9f2ff" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+  <rect class="st6" width="1400" height="950"/>
+  <rect class="st7" width="1400" height="950"/>
+  <g class="st2">
+    <path class="st9" d="M0,160h1400M0,320h1400M0,480h1400M0,640h1400M0,800h1400"/>
+    <path class="st9" d="M180,0v950M360,0v950M540,0v950M720,0v950M900,0v950M1080,0v950M1260,0v950"/>
+  </g>
+  <path class="st5" d="M190,690c140-210,310,70,500-160,150-180,315-120,520-295"/>
+  <circle class="st0" cx="1210" cy="235" r="9"/>
+  <circle class="st3" cx="690" cy="530" r="7"/>
+  <rect class="st8" x="96" y="96" width="1208" height="758" rx="42" ry="42"/>
+  <text class="st1" transform="translate(520.02 455)"><tspan x="0" y="0">PROYECTO 7</tspan></text>
+  <text class="st4" transform="translate(513.57 520)"><tspan x="0" y="0">Reemplaza esta imagen en /img</tspan></text>
+</svg>

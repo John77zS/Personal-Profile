@@ -1,0 +1,20 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4f4f1" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#b9f2ff" stop-opacity=".65"/>
+    </linearGradient>
+    <radialGradient id="r" cx="50%" cy="32%" r="55%">
+      <stop offset="0%" stop-color="#b9f2ff" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#07080b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1100" fill="#090b10"/>
+  <rect x="40" y="40" width="820" height="1020" rx="55" fill="#0d1118" stroke="rgba(255,255,255,.22)" stroke-width="3"/>
+  <circle cx="450" cy="350" r="210" fill="url(#r)"/>
+  <circle cx="450" cy="310" r="138" fill="none" stroke="url(#g)" stroke-width="10"/>
+  <path d="M230 815 C260 650 340 565 450 565 C560 565 640 650 670 815" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M170 890 H730" stroke="#f4f4f1" stroke-opacity=".22" stroke-width="2"/>
+  <text x="450" y="940" text-anchor="middle" fill="#f4f4f1" font-family="Arial, sans-serif" font-size="44" font-weight="700">TU FOTO AQUÍ</text>
+  <text x="450" y="990" text-anchor="middle" fill="#9b9faa" font-family="Arial, sans-serif" font-size="24">Reemplaza este archivo en /img</text>
+</svg>
